@@ -1,0 +1,32 @@
+[
+    {
+        "titolo": "Back in Black",
+        "autore": "AC/DC",
+        "anno": "1980",
+        "url": "copertina1"
+    },
+    {
+        "titolo": "The Dark Side of the Moon",
+        "autore": "Pink Floyd",
+        "anno": "1973",
+        "url": "copertina2"
+    },
+    {
+        "titolo": "Abbey Road",
+        "autore": "The Beatles",
+        "anno": "1969",
+        "url": "copertina3"
+    },
+    {
+        "titolo": "Thriller",
+        "autore": "Michael Jackson",
+        "anno": "1982",
+        "url": "copertina4"
+    },
+    {
+        "titolo": "Nevermind",
+        "autore": "Nirvana",
+        "anno": "1991",
+        "url": "copertina5"
+    }
+]
