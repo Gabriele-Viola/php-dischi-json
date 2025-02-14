@@ -25,22 +25,22 @@ require_once "./server.php";
 
         <h1 class="my-4 ">My albums</h1>
         <div class="add mb-3 ">
-            <form action="" method="POST" class="form-control d-flex justify-content-between py-3 shadow">
+            <form action="server.php" method="POST" class="form-control d-flex justify-content-between py-3 shadow">
                 <div>
                     <label for="titolo" class="form-label">Titolo</label>
-                    <input type="text" id="titolo" name="titolo" class="form-control">
+                    <input type="text" id="titolo" name="titolo" class="form-control" require>
                 </div>
                 <div>
                     <label for="autore" class="form-label">Autore</label>
-                    <input type="text" id="autore" name="autore" class="form-control">
+                    <input type="text" id="autore" name="autore" class="form-control" require>
                 </div>
                 <div>
                     <label for="anno" class="form-label">Anno</label>
-                    <input type="number" min="1500" id="anno" name="anno" class="form-control">
+                    <input type="number" min="1500" id="anno" name="anno" class="form-control" require>
                 </div>
                 <div>
                     <label for="url" class="form-label">URL immagine</label>
-                    <input type="text" id="url" name="url" class="form-control">
+                    <input type="text" id="url" name="url" class="form-control" require>
                 </div>
                 <div class="d-flex align-items-center">
                     <button type="submit" class="btn btn-primary">Aggiungi album</button>
