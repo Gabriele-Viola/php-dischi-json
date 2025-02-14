@@ -3,30 +3,30 @@
         "titolo": "Back in Black",
         "autore": "AC/DC",
         "anno": "1980",
-        "url": "copertina1"
+        "url": "https://i.pinimg.com/1200x/a2/20/0c/a2200cf9af83b64293e560f4c2fe0acb.jpg"
     },
     {
         "titolo": "The Dark Side of the Moon",
         "autore": "Pink Floyd",
         "anno": "1973",
-        "url": "copertina2"
+        "url": "https://i.pinimg.com/736x/b9/bf/c7/b9bfc798c77a3c0675f74241c8b52460.jpg"
     },
     {
         "titolo": "Abbey Road",
         "autore": "The Beatles",
         "anno": "1969",
-        "url": "copertina3"
+        "url": "https://i.pinimg.com/736x/8f/3d/f0/8f3df07bc03e60fa59453a7e2a5cf305.jpg"
     },
     {
         "titolo": "Thriller",
         "autore": "Michael Jackson",
         "anno": "1982",
-        "url": "copertina4"
+        "url": "https://i.pinimg.com/736x/91/9e/1f/919e1f3c76181b32c34b95b3cd22723e.jpg"
     },
     {
         "titolo": "Nevermind",
         "autore": "Nirvana",
         "anno": "1991",
-        "url": "copertina5"
+        "url": "https://i.pinimg.com/736x/4b/20/df/4b20df0afb8078af31f34a5fde9831e4.jpg"
     }
 ]
