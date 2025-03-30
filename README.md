@@ -7,7 +7,7 @@ Questa è una piccola applicazione in **PHP** che permette di visualizzare una l
 - **Visualizzazione album**: Gli album musicali esistenti vengono caricati e mostrati in una lista.
 - **Aggiunta di nuovi album**: Gli utenti possono aggiungere nuovi album tramite un semplice form, inserendo il nome dell'album, l'artista e l'anno di uscita.
 - **Salvataggio in JSON**: I dati relativi agli album sono salvati e letti da un file **JSON**. Ogni volta che un nuovo album viene aggiunto, il file viene aggiornato con i nuovi dati.
-- **Semplice interfaccia**: L'applicazione utilizza una semplice interfaccia web in HTML per interagire con gli utenti.
+- **Semplice interfaccia**: L'applicazione utilizza una semplice interfaccia web con Bootstrap per interagire con gli utenti.
 
 ## Struttura del progetto
 
